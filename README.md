@@ -4,7 +4,7 @@ This repository contains the data and analysis code for the manuscript:
 
 **1000 Days of HRV: A Case Study of Daily Post-Wake-Up Heart Rate Variability for Tracking Stressful Life Events**
 
-Pre-print: **[LINK TO PRE-PRINT]**
+Pre-print: https://osf.io/preprints/psyarxiv/xh3ju_v1
 
 ## Overview
 
@@ -59,14 +59,13 @@ The analyses in this repository reproduce the main results reported in the manus
 
 If you use this repository, please cite the manuscript:
 
-> Sinichi, A., & Krabbendam, L., Gevonden, M.
-> *1000 Days of HRV: A Case Study of Daily Post-Wake-Up Heart Rate Variability for Tracking Stressful Life Events.*
-> Pre-print: [LINK TO PRE-PRINT]
+> Sinichi, A., Krabbendam, L., & Gevonden, M. (2026, April 30). 1000 Days of HRV: A Case Study of Daily Post-Wake-Up Heart > Rate Variability for Tracking Stressful Life Events. Retrieved from osf.io/preprints/psyarxiv/xh3ju_v1
+> Pre-print: https://osf.io/preprints/psyarxiv/xh3ju_v1
 
 ## Contact
 
 For questions about the manuscript or repository, contact:
 
 **Amin Sinichi**
-[m.sinichi@vu.nl](mailto:m.sinichi@vu.nl)
-[aminsinichi@gmail.com](mailto:aminsinichi@gmail.com)
+- [m.sinichi@vu.nl](mailto:m.sinichi@vu.nl)  
+- [aminsinichi@gmail.com](mailto:aminsinichi@gmail.com)
