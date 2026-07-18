@@ -1,11 +1,11 @@
 :root {
-  --background: #f3f4f1;
-  --text: #202421;
-  --muted: #686f6a;
-  --line: #d8dcd7;
-  --accent: #176b5a;
-  --hover: #e9ece8;
-  --disabled: #929893;
+  --background: #0d0f0e;
+  --text: #f2f4f2;
+  --muted: #a7ada8;
+  --line: #2b302c;
+  --accent: #72d6bd;
+  --hover: #171a18;
+  --disabled: #767d77;
   --maximum-width: 900px;
 }
 
@@ -80,7 +80,7 @@ h1 {
   max-width: 760px;
   margin: 24px 0 0;
 
-  color: #373c38;
+  color: #d7dcd8;;
 
   font-size: clamp(1.15rem, 2.5vw, 1.55rem);
   line-height: 1.45;
